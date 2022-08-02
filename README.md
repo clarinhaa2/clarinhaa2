@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é @clarinhaa2
+- 👀 Meu email de contato é clara.noll@escola.pr.gov.br
+- 🌱 Eu estou interessada em  programar novas linguagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch 
+-
